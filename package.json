@@ -1,0 +1,21 @@
+{
+  "name": "gb-utils",
+  "version": "1.0.0",
+  "description": "Simple CMS for document management",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/generate-docs.js",
+    "watch": "node scripts/watch-docs.js",
+    "download": "node scripts/download-docs.js"
+  },
+  "keywords": ["cms", "documents", "pdf"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "cheerio": "^1.0.0-rc.12",
+    "gray-matter": "^4.0.3",
+    "chokidar": "^3.5.3"
+  }
+}

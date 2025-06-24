@@ -1,0 +1,80 @@
+.document-browser {
+    display: flex;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.pages-list {
+    flex: 0 0 250px;
+    background: #f5f5f5;
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.page-item {
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+.page-item:hover {
+    background-color: #e0e0e0;
+}
+
+.page-item.active {
+    background-color: #007bff;
+    color: white;
+}
+
+.documents-list {
+    flex: 1;
+}
+
+.documents-list h2 {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+.documents-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.document-item {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.document-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.document-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    text-decoration: none;
+    color: inherit;
+}
+
+.document-text {
+    flex: 1;
+}
+
+.document-type {
+    background: #e9ecef;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    color: #666;
+    text-transform: uppercase;
+} 

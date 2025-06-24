@@ -1,0 +1,1274 @@
+{
+  "lastGenerated": "2025-06-17T20:49:38.250Z",
+  "pages": {
+    "AdministrativeLetters": [
+      {
+        "text": "Administrative guide (update July 2024)",
+        "url": "documents/Administrative_Guide_July_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Administrative guide (update July 2023)",
+        "url": "/Documents/Administrative_Guide_2023_July_Final-edit-2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits administration letter 21-001",
+        "url": "/Documents/20210608094443318.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits administration letter 14-003",
+        "url": "/Documents/14-003_BenAdminltr_Addl_Administrative_Processes_for_LPBs_SIGNED.PDF",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits administration letter 14-002",
+        "url": "/Documents/14-002_BenAdminLtr_LPB_Premium_Load_changes_SIGNED.PDF",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits administration letter 14-001",
+        "url": "/Documents/14-001_BenAdminltr_Admin_Changes_to_Disability_Program_SIGNED.PDF",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits administration letter 13-004",
+        "url": "/Documents/13-004_BenAdminltr_LPB_Disability_Checks_Taxes_SIGNED.PDF",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits administration letter 13-003",
+        "url": "/Documents/13-003_BenAdminltr_COBRA_Billing_Changes_SIGNED.PDF",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits administration letter 12-002",
+        "url": "/Documents/13-002_BenAdminltr_LPB_Selfpay_Billing_Changes_SIGNED.PDF",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits administration letter 12-001",
+        "url": "/Documents/13-001_BenAdminltr_LPB_Separation_Process_SIGNED.PDF",
+        "type": "pdf"
+      }
+    ],
+    "COBRA": [
+      {
+        "text": "COBRA Rates Effective January 1, 2025",
+        "url": "/documents/Premium_Rate_Sheet_COBRA_Only_0percent_Load_2025_01_01_MASTER.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "COBRA rates effective July 1, 2024",
+        "url": "/documents/Premium_Rate_Sheet_COBRA_Only_0_Load_2024_07_01_MASTER_61424v2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "COBRA state employee rates only effective July 1, 2023 through June 30, 2024",
+        "url": "/documents/COBRA-Premium-Rate-Sheet-STATE-Only-0-Load-2023-07-01-to-2024-06-30-MASTER.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "COBRA initial notice for new hires",
+        "url": "/documents/COBRA_Form_Notice_of_Rights_to_Continue_Coverage.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "COBRA notification form",
+        "url": "/documents/COBRA_Notification_Form-Revised_12_5_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "COBRA Frequently Asked Questions (FAQ)",
+        "url": "/documents/faq_consumer_cobra.pdf",
+        "type": "pdf"
+      }
+    ],
+    "Disability": [
+      {
+        "text": "Disability Policy",
+        "url": "/Documents/Disability-Policy-01.15.2020-Fillable-Forms.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Disability claim form",
+        "url": "/Documents/Acknowledgements_FormsFillable_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Physician form",
+        "url": "/Documents/Physician_Form_01_2025_Fillable.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Disability overview",
+        "url": "/Documents/Disability_Overview_9-9-19.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Disability FAQ",
+        "url": "/Documents/DISABILITY_FAQ_Revised_9-9-19.pdf",
+        "type": "pdf"
+      }
+    ],
+    "EmployeeAssistancePlan": [
+      {
+        "text": "EAP webinar archive (click here)",
+        "url": "/documents/WebinarArchiveMaster.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "NEW: A guide to using GuidanceResources Online",
+        "url": "/Documents/HS_GROGuide.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "NEW: GuidanceResources mobile access",
+        "url": "/Documents/P_GROMobile_GRO_T_v2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "About your new EAP benefits",
+        "url": "/Documents/EF_12345_SoNM.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Estate guidance",
+        "url": "/Documents/OS_EstateGuidance.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Contact us",
+        "url": "/Documents/WC_GRO_SoNM.PDF",
+        "type": "pdf"
+      },
+      {
+        "text": "Summer vegetable curry",
+        "url": "/documents/Summer_Vegetable_Curry.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Turkey Divine",
+        "url": "/documents/Turkey_Divine.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Charred shrimp, pesto, and quinoa bowls",
+        "url": "/documents/Charred_Shrimp.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Grilled cauliflower steaks with almond pesto and butter beans",
+        "url": "/documents/Grilled_Cauliflower_Steaks_with_Almond_Pesto_7-16-2021.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Homemade chicken tenders with Everything Bagel seasoning and mixed baby greens",
+        "url": "/documents/Homemade_Chicken_Tenders_w_EverythingBagel.pdf",
+        "type": "pdf"
+      }
+    ],
+    "EnrollmentFillable": [
+      {
+        "text": "Enroll in State Health Benefits PDF",
+        "url": "/Documents/newPDF/2024_EnrollmentChange_STATE.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enrollment_Documentation_Requirements",
+        "url": "/documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enroll in LPB Health Benefits PDF",
+        "url": "/Documents/newPDF/2024_EnrollmentChange_LPB.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enrollment_Documentation_Requirements",
+        "url": "/documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enroll in Life Insurance PDF",
+        "url": "/Documents/newPDF/2024_EnrollmentChange_LifeInsurance.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enrollment_Documentation_Requirements",
+        "url": "/documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enroll in Health FSA PDF",
+        "url": "/Documents/newPDF/2024_FSA_Health.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enroll in Transit and Parking FSA PDF",
+        "url": "/Documents/newPDF/2024_FSA_Transit.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2024_FSA_Health",
+        "url": "/Documents/newPDF/2024_FSA_Health.pdf",
+        "type": "pdf"
+      }
+    ],
+    "EnrollmentInformation": [
+      {
+        "text": "Enrollment_Documentation_Requirements",
+        "url": "/documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enrollment_Documentation_Requirements",
+        "url": "/documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      }
+    ],
+    "FGPOpenFPN": [
+      {
+        "text": "2025 Federal Notices (Spanish)",
+        "url": "documents/SONM_Legal-Notes_Final_101524-TSG-Es.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2025 Federal Notices_(English)",
+        "url": "documents/SONM_Legal-Notes_Final_101524.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2023 Medicare part D Creditable Coverage_Notice (Spanish)",
+        "url": "documents/Medicare_Part_D_2023_Spanish.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2023 Medicare part D Creditable Coverage Notice_(English)",
+        "url": "documents/Medicare_part_D_2023.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2022 Medicare_part D Creditable Coverage Notice (English)",
+        "url": "documents/2022_Medicare_Part_D_Creditable_Coverage_Notice_English.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2022 Medicare_part D Creditable Coverage Notice (Spanish)",
+        "url": "/documents/2022 Medicare Part D Creditable Coverage Notice-Spanish.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2021 Medicare_part D Creditable Coverage Notice (English)",
+        "url": "/documents/2021_Medicare_Part_D_Creditable_Coverage_Notice-English.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2021 Medicare_part D Creditable Coverage Notice (Spanish)",
+        "url": "/documents/2021_Medicare_Part_D_Creditable_Coverage-Notice-Spanish.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2020 Medicare part D Creditable Coverage_Notice (English)",
+        "url": "/documents/Part_D_Memo_2020-English-Final.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2020 Medicare part D Creditable Coverage_Notice (Spanish)",
+        "url": "/documents/Part_D_Memo_2020-Spanish-Final.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2019 Medicare part D Creditable_Coverage Notice (English)",
+        "url": "/documents/Part_D_Memo_2019-English-Final.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2019 Medicare part D Creditable_Coverage Notice (Spanish)",
+        "url": "/documents/Part_D_Memo_2019-Spanish-Final.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2018 Medicare part D Creditable_Coverage Notice (English)",
+        "url": "/documents/Part_D_Memo_2018-English_Final.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2018 Medicare part D Creditable_Coverage Notice (Spanish)",
+        "url": "/documents/Part_D_Memo_2018-Spanish_Final.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2017 Medicare part D Creditable_Coverage Notice (English)",
+        "url": "/documents/Part_D_Memo_2017_FINAL-English.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2017 Medicare part D Creditable_Coverage Notice (Spanish)",
+        "url": "/documents/Part_D_Memo_2017_-Final-Spanish.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2016 Medicare part D Creditable Coverage_Notice (English)",
+        "url": "/documents/Part_D_Memo_2016-English.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2016 Medicare part D Creditable Coverage_Notice (Spanish)",
+        "url": "/documents/Part_D_Memo_2016-Spanish.pdf",
+        "type": "pdf"
+      }
+    ],
+    "FSA": [
+      {
+        "text": "2025 Medical Flexible Spending Account information",
+        "url": "documents/FSA_HCDC_2025.1.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2025 Child care FSA information",
+        "url": "documents/CCFSA_Guide_2025.1.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2025 Transit and parking   benefit   information",
+        "url": "documents/Transportation_Parking_Guide_2025_v2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2024 Medical Flexible Spending Account information",
+        "url": "documents/FSA_HCDC_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2024 Child care FSA information",
+        "url": "documents/DCFSA_Guide_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2024 Transit and parking benefit   information",
+        "url": "documents/Transportation_Parking_Guide_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2024 Transit and parking   election change form",
+        "url": "documents/Transit-Parking-Election-Change-Form-2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "FSA claim form",
+        "url": "/Documents/FSA-august-2023/Health_FSA_Claim_Form_Fillable Signature Update.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Eligible   health care expenses",
+        "url": "/Documents/Eligible_Health_Care_Expenses.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Orthodontia and   FSA",
+        "url": "/Documents/Orthodontia_Guide.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Qualifying event change form",
+        "url": "documents/FSA_QE_Change_Form_Fill_010124.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Letter of medical necessity",
+        "url": "documents/Letter_of_Medical_Necessity_Fillable.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2024 Mileage reimbursement   worksheet",
+        "url": "documents/Mileage_Worksheet_SONM_2022_EASIGOV_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Child care claim form",
+        "url": "documents/CCAP_Claim_Form_SONM_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Transit and parking claim form",
+        "url": "/Documents/FSA-august-2023/FSA_PT_Claim_Form_Fillable Signature Updated.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Calculating your FSA",
+        "url": "/documents/Calculating-FSA-2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2023 Medical Flexible Spending   Account information",
+        "url": "/documents/FSA-august-2023/FSA_HCDC_2023.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2023 Dependent care FSA   information",
+        "url": "/documents/FSA-august-2023/DCFSA_Guide_2023.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2023 Transit and parking   benefit information",
+        "url": "/documents/Transportation_Parking_Guide_2023_2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2023 Mileage reimbursement worksheet",
+        "url": "/Documents/FSA-august-2023/Mileage_Worksheet_SONM_2023 Signature Updated.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "2023 Transit and parking election change form",
+        "url": "/documents/FSA-august-2023/Transit_Parking_Election_Change_Form_2023 Updated Signature.pdf",
+        "type": "pdf"
+      }
+    ],
+    "HRresources": [
+      {
+        "text": "(print)",
+        "url": "documents/Omada_Enhancements_1095C_Reporting_Year_2022_and_HR_Reminders.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "(print)",
+        "url": "documents/2022_Medicare_Part_D_Creditable_Coverage_Notice_English.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "(print)",
+        "url": "documents/CVS_and_HR_Reminders.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "(print)",
+        "url": "/documents/Wellness_Programs_HR_Print_presentation.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "(print)",
+        "url": "/documents/EBB_OPR_y_HR_Reminders_March_2022.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "(print)",
+        "url": "/documents/HR-REMINDERS_2-15-22.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "(print)",
+        "url": "/documents/HR-Reminders_January_2022.pdf",
+        "type": "pdf"
+      }
+    ],
+    "POPwaivers": [
+      {
+        "text": "POP Waiver form (state employee)",
+        "url": "documents/POP-Waiver-2024/POP-SoNM-NOTICE-OF-WAIVER-2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "POP Waiver form (LPB employee)",
+        "url": "documents/POP-Waiver-2024/POP-LPB-NOTICE-OF-WAIVER-2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enrollment_Documentation_Requirements",
+        "url": "documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits_Eligibility_Acknowledgement",
+        "url": "documents/Benefits_Eligibility_Acknowledgement_2022_v2.pdf",
+        "type": "pdf"
+      }
+    ],
+    "PremiumRatesSAE": [
+      {
+        "text": "Premium Rates as of July 1, 2025",
+        "url": "/documents/sepa/NM_State_Employee_Rate_Sheet_for_FY26_FINAL.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium Rates as of January 1, 2025",
+        "url": "/documents/State_of_New_Mexico_premium_rates_July1_24_June3025_12_6_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium rates as of July 1, 2024",
+        "url": "/documents/State_of_New_Mexico_premium_rates_July1_24_June3025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium rates for July 1, 2023 through June 30, 2024",
+        "url": "/documents/FY24_Premium_Rates_Schedule_FINAL_JULY2023.pdf",
+        "type": "pdf"
+      }
+    ],
+    "PremiumsDue": [
+      {
+        "text": "Notice to terminate benefits due to non-payment",
+        "url": "/Documents/Notification_to_Term_Benefits_Dec2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "FMLA & LWOP self-pay transmittal form (state)",
+        "url": "/Documents/Transmittal_Form_MEMO_2_b.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium due - FMLA Initial notice",
+        "url": "/Documents/Premiums_Due_FMLA_Initial_Notice_FillableV122024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium due - FMLA Second notice",
+        "url": "/Documents/Premiums_Due_FMLA_Second_Notice_FillableV122024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium due - FMLA Final notice",
+        "url": "/documents/Premiums_Due_FMLA_Final_Notice_FillableV2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium due - LWOP Initial notice",
+        "url": "/documents/Premiums_Due_LWOP_Initial_Notice_FillableV122024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium due - LWOP Second notice",
+        "url": "/documents/Premiums_Due_LWOP_Second_Notice_FillableV122024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium due - LWOP Final notice",
+        "url": "/documents/Premiums_Due_LWOP_Final_Notice_FillableV2.pdf",
+        "type": "pdf"
+      }
+    ],
+    "Preview": [
+      {
+        "text": "Enrollment Form",
+        "url": "documents/sepa/SEPA_Enrollment_Form_May_2025_fillable.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "State Employee FAQ",
+        "url": "documents/sepa/State_Employee_FAQ_for_SB_376_FINAL_250505.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "SEPA Guidance for State Employees",
+        "url": "documents/sepa/SEPA_Guidance_for_State_Employees_FINAL_250505.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Technical Program Guidance",
+        "url": "documents/sepa/2025_SEPA_Technical_Program_Guidance_250505_FINAL.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Programa de Asistencia para Primas para Empleados Estatales",
+        "url": "documents/sepa/SEPA_Guidance_for_State_Employees_FINAL_250505-TSG-Es.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Preguntas frecuentes aplicación de la Ley 376 del Senado",
+        "url": "documents/sepa/State_Employee_FAQ_for_SB_376_FINAL_250505-TSG-Es.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Asistencia a las Primas de los Empleados del Estado (SEPA) Formulario de solicitud",
+        "url": "documents/sepa/SEPA_Enrollment_Form_May_2025_fillable-TSG-fillable-Es.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Prestaciones de Salud del Estado de Nuevo México Orientación sobre el Programa de Asistencia para Primas para Empleados Estatales",
+        "url": "documents/sepa/2025_SEPA_Technical_Program_Guidance_250505_FINAL-TSG-Es.pdf",
+        "type": "pdf"
+      }
+    ],
+    "SEPA": [
+      {
+        "text": "Enrollment Form",
+        "url": "documents/sepa/SEPA_Enrollment_Form_May_2025_fillable.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "State Employee FAQ",
+        "url": "documents/sepa/State_Employee_FAQ_for_SB_376_FINAL_250505.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "SEPA Guidance for State Employees",
+        "url": "documents/sepa/SEPA_Guidance_for_State_Employees_FINAL_250505.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Technical Program Guidance",
+        "url": "documents/sepa/2025_SEPA_Technical_Program_Guidance_250505_FINAL.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Programa de Asistencia para Primas para Empleados Estatales",
+        "url": "documents/sepa/SEPA_Guidance_for_State_Employees_FINAL_250505-TSG-Es.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Preguntas frecuentes aplicación de la Ley 376 del Senado",
+        "url": "documents/sepa/State_Employee_FAQ_for_SB_376_FINAL_250505-TSG-Es.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Asistencia a las Primas de los Empleados del Estado (SEPA) Formulario de solicitud",
+        "url": "documents/sepa/SEPA_Enrollment_Form_May_2025_fillable-TSG-fillable-Es.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Prestaciones de Salud del Estado de Nuevo México Orientación sobre el Programa de Asistencia para Primas para Empleados Estatales",
+        "url": "documents/sepa/2025_SEPA_Technical_Program_Guidance_250505_FINAL-TSG-Es.pdf",
+        "type": "pdf"
+      }
+    ],
+    "TermLife": [
+      {
+        "text": "SONM Life and AD&D booklet",
+        "url": "/documents/SONM_Life_ADD_Booklet_8.26.19_FINAL.PDF",
+        "type": "pdf"
+      },
+      {
+        "text": "Term Life   Policy",
+        "url": "/documents/SONM-Life-ADD-POI-FINAL.PDF",
+        "type": "pdf"
+      },
+      {
+        "text": "Introduction to The Hartford",
+        "url": "/documents/SONM_Employee_Presentation_8.22.19_Final.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Coverage options",
+        "url": "/documents/SoNM_RMD_Life_AD_D_BHS_8.22.19.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Coverage rates",
+        "url": "/documents/Premium_Worksheet.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Accelerated benefit claim form",
+        "url": "/documents/accelerated-benefit-claim-form.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "AD&D claim   form",
+        "url": "/documents/ADD-claim-form-emp-or-dep.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Death claim   form",
+        "url": "/documents/Hartford-death-claim-form.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Waiver of premium PTD/extension claim form",
+        "url": "/documents/waiver-of-premium-PTD-extension-claim-form.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Beneficiary designation form",
+        "url": "/documents/Beneficiary_Designation_Form_and_Cover_Letter-Final.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Beneficiary guide",
+        "url": "/documents/Beneficiary_Guide_for_Employees.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "the Children with Disabilities form",
+        "url": "/documents/Disabled-Adult-Dep-Form.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "portability and   conversion information",
+        "url": "documents/Port_Convert_Life_Continuation.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enrollment_Documentation_Requirements",
+        "url": "/documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Learn more about how Transit and Parking     work",
+        "url": "Documents/Transportation_Parking_Guide_2023_2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Transit and Parking     Change Form (Printable)",
+        "url": "documents/Transit_Parking_Election_Change_Form_2023.pdf",
+        "type": "pdf"
+      }
+    ],
+    "domestic-partnership": [
+      {
+        "text": "Affidavit of domestic partnership",
+        "url": "/documents/Affidavit_Domestic_Partner_080824.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Termination of domestic partnership",
+        "url": "/documents/Domestic_Partnership_Termination_080824.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "• New                 Hire Orientation Presentation PDF - English",
+        "url": "/documents/New-Employee-QE-Orientation-Final-3-28-23-English-slides.pdf",
+        "type": "pdf"
+      }
+    ],
+    "employee-new-hire-lpb": [
+      {
+        "text": "New hire benefits eligibility acknowledgement form",
+        "url": "/documents/Employee-Benefits-Instructions-for-LPBs1-1-24.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Click here",
+        "url": "documents/Enrollment_Documentation_Requirements_4.20.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Click here",
+        "url": "documents/Employee-Benefits-Instructions-for-LPBs1-1-24.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Click here",
+        "url": "documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Click here",
+        "url": "documents/Enrollment_Legislators_print_FY25v1_1.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "LPB paper enrollment form",
+        "url": "Documents/EnrollmentChange_LPB_FY25v1_1.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "The Hartford life paper enrollment     form",
+        "url": "Documents/2019_LifeInsurance_Enrollment.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Document verification form     - must be signed by your     employer",
+        "url": "Documents/Birth_Certificate_Verification_Form_LPB.pdf",
+        "type": "pdf"
+      }
+    ],
+    "employee-new-hire-sonm": [
+      {
+        "text": "New hire benefits eligibility acknowledgement",
+        "url": "/documents/Benefits_Eligibility_Acknowledgement_2022_v2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "here",
+        "url": "documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Click here",
+        "url": "documents/Benefits_Eligibility_Acknowledgement_2022_v2.pdf",
+        "type": "pdf"
+      }
+    ],
+    "employee-portal-lpb": [
+      {
+        "text": "Legislator enrollment form for qualifying events",
+        "url": "Documents/EnrollmentChange_Legislators_FY21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "LPB paper enrollment form",
+        "url": "documents/EnrollmentChange_LPB_FY25v1_1.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "The Hartford life paper         enrollment         form",
+        "url": "Documents/2019_LifeInsurance_Enrollment.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Document verification         form (note: must be signed and         verified by your employer)",
+        "url": "Documents/Birth_Certificate_Verification_Form_LPB.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Click here",
+        "url": "/documents/Enrollment_Documentation_Requirements_4.20.21.pdf",
+        "type": "pdf"
+      }
+    ],
+    "employee-portal-share": [
+      {
+        "text": "Click here     to     view the manual.",
+        "url": "/documents/Manage_Personal_Information_and_Review_Your_Benefits.pdf",
+        "type": "pdf"
+      }
+    ],
+    "employee-portal-sonm": [
+      {
+        "text": "Click here",
+        "url": "/documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "here",
+        "url": "/documents/Administrative_Guide_July_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Enrollment   documentation requirements",
+        "url": "/documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Administrative   guide",
+        "url": "/documents/Administrative_Guide_July_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "FSA and   child care qualifying event form",
+        "url": "/documents/FSA_Change_Form_Fill_12_5_24.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Learn more about   how transit and parking work",
+        "url": "/Documents/Transportation_Parking_Guide_2023_2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Transit and parking change   form (printable)",
+        "url": "documents/Transit_Parking_Election_Change_Form_2023.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Click here",
+        "url": "/documents/Enrollment_Documentation_Requirements_4.29.21.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Learn more about how transit and parking     work",
+        "url": "Documents/Transportation_Parking_Guide_2023_2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Transit and parking     chang form (printable)",
+        "url": "documents/Transit_Parking_Election_Change_Form_2023.pdf",
+        "type": "pdf"
+      }
+    ],
+    "employee-portal": [
+      {
+        "text": "POP waiver form",
+        "url": "documents/POP-Waiver-2024/POP-SoNM-NOTICE-OF-WAIVER-2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "New Hire     Orientation presentation PDF - English",
+        "url": "/documents/New-Employee-QE-Orientation-Final-3-28-23-English-slides.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Affidavit of domestic     partnership",
+        "url": "documents/Affidavit_Domestic_Partner_080824.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Termination of domestic     partnership",
+        "url": "documents/Domestic_Partnership_Termination_080824.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "POP waiver form     (LPB)",
+        "url": "documents/POP-Waiver-2024/POP-LPB-NOTICE-OF-WAIVER-2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Affidavit of domestic     partnership",
+        "url": "documents/Affidavit_Domestic_Partner_080824.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Termination of domestic     partnership",
+        "url": "documents/Domestic_Partnership_Termination_080824.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "• New   Hire Orientation presentation PDF - English",
+        "url": "/documents/New-Employee-QE-Orientation-Final-3-28-23-English-slides.pdf",
+        "type": "pdf"
+      }
+    ],
+    "employerResources": [
+      {
+        "text": "Administrative guide",
+        "url": "documents/Administrative_Guide_July_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Agency   refund request form",
+        "url": "/documents/Agency Refund Request Form.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits Eligibility Acknowledgement form (English)",
+        "url": "/Documents/Benefits_Eligibility_Acknowledgement_2025_V1.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits Eligibility Acknowledgement form (Español)",
+        "url": "/Documents/Benefits_Eligibility_Acknowledgement_2025_Spanish_V1.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits Eligibility Acknowledgement form – waiving benefits",
+        "url": "/documents/Benefits_Eligibility_Acknowledgement_2024_Waiving_All_Benefits.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits Eligibility Acknowledgement form – waiving benefits   (Español)",
+        "url": "/documents/Benefits_Eligibility_Acknowledgement_2024_Waiving_All_Benefits_Spanish.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Death claim form",
+        "url": "/documents/State_of_New_Mexico_Life_Claim_Form.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Employee   refund request form",
+        "url": "/documents/Employee Refund Request Form.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Notification to terminate   benefits due to non-payment of premiums",
+        "url": "documents/Notification_to_Term_Benefits_080824.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "POP   waiver form (state)",
+        "url": "/Documents/POP-Waiver-2024/POP-SoNM-NOTICE-OF-WAIVER-2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Refund Request   Form",
+        "url": "/documents/Refund Request Form.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "W9   blank form (benefits refund)",
+        "url": "/documents/W9 blank form (benefits refunds).pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "W9 blank form (other)",
+        "url": "/documents/W9 blank form (other).pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits comparison guide   2025",
+        "url": "/documents/Benefit_Comparison_Grid_FY24_Rev_102424.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits comparison guide   2024",
+        "url": "documents/Benefit_Comparison_Grid_FY24_Final_10-5-23.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "HIPAA privacy notice",
+        "url": "/Documents/HIPAA_Policies_and_Procedures_2024.PDF",
+        "type": "pdf"
+      },
+      {
+        "text": "Trifold benefits   brochure",
+        "url": "/documents/Trifold_Plan_Brochure_March_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "How to submit current   calendar and prior fiscal year refund requests",
+        "url": "/documents/Benefits_refund_processCurrentPrior_FY.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "LPB employee   change/correction form",
+        "url": "/documents/LPB_Change_Form.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "POP   waiver form (LPB)",
+        "url": "/documents/POP-Waiver-2024/POP-LPB-NOTICE-OF-WAIVER-2024.pdf",
+        "type": "pdf"
+      }
+    ],
+    "employerResourcesSub1": [
+      {
+        "text": "Affidavit of domestic partnership",
+        "url": "/documents/Affidavit_Domestic_Partner_080824.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Termination of domestic partnership",
+        "url": "/documents/Domestic_Partnership_Termination_080824.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "• New   Hire Orientation Presentation PDF - English",
+        "url": "/documents/New-Employee-QE-Orientation-Final-3-28-23-English-slides.pdf",
+        "type": "pdf"
+      }
+    ],
+    "index": [
+      {
+        "text": "Learn more",
+        "url": "/wellness/june_2025/State_of_New_Mexico_Newsletter_June_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Benefits at a glance",
+        "url": "documents/Trifold_Plan_Brochure_March_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "June 17 - Wellness for Men: Live Better, Longer",
+        "url": "/wellness/june_2025/Wellness_for_Men_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "June 18 - Ageless Mobility: Unlocking Freedom of Movement         at Every Stage",
+        "url": "/wellness/june_2025/6_TSG_2025_Webinars_JUNE_SONM.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "June 23 - Healthy Bones and Joints",
+        "url": "/wellness/june_2025/Healthy_Bones_and_Joints.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "June 25 - Ergonomics 101",
+        "url": "/wellness/june_2025/Ergonomics_101.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "June 26 - Cooking Show: Fresh and Fruity Feasts",
+        "url": "/wellness/june_2025/6_TSG_Cooking_Show_Flyers_2025_JUNE.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "June 2025 Wellness Spotlight Newsletter",
+        "url": "/wellness/june_2025/State_of_New_Mexico_Newsletter_June_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "June 2025 Well-Balanced Newsletter - Alzheimer's Disease         and Brain Health Awareness Month",
+        "url": "/wellness/june_2025/WellBalanced_June_2025_SONM.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "June 2025 HealthyLife Newsletter - Work Well, Sit Well:         Ergonomic Workspace Setup",
+        "url": "/wellness/june_2025/HealthyLife_Newsletter_June_2025_SONM.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Walking for Brain Health: The benefits of walking are         endless",
+        "url": "/wellness/june_2025/Walking_for_Brain_Health_June_2025_SONM.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Mindfulness for anxiety, worry, depression, and pain",
+        "url": "/wellness/june_2025/Mindfulness_for_Anxiety_Worry_Depression_and_Pain_SONM_25.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Brain Gains: Unlocking the Secrets to a Sharper Mind",
+        "url": "/wellness/june_2025/Brain_Gains_Program_Flyer_SONM_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "GuidanceResources Tax Prep 2025",
+        "url": "/documents/TaxPrep_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "NEW! GuidanceResources Digital Experience",
+        "url": "/documents/New_GuidanceResources_Digital_Experience_2025.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "EAP Webinar archived collection",
+        "url": "/documents/WebinarArchiveMaster.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "BCBS BlueResource - Protecting Your Health - Screening for         Breast Cancer",
+        "url": "/documents/BCBS_Mammogram_October_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "BCBS BlueResource - Proteja su salud – Cómo detectar el         cáncer de seno (en español)",
+        "url": "/documents/BCBS_Mammogram_October_2024_Spanish.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "BCBS BlueResource - Learn How to Detect Breast Cancer Early",
+        "url": "/documents/BCBS_Breast_Cancer_Flyer_October_2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "BCBS BlueResource - Aprenda a detectar el cáncer de seno a         tiempo",
+        "url": "/documents/BCBS_Breast_Cancer_Flyer_October_2024_Spanish.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Breast Cancer Fact Sheet",
+        "url": "/documents/Breast Cancer Fact Sheet ACS.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Stay Flu-Free This Season",
+        "url": "/documents/Informational_Flu_Flyer_2024.pdf",
+        "type": "pdf"
+      }
+    ],
+    "rmdPremiumRates": [
+      {
+        "text": "July 1, 2025 Monthly Premiums",
+        "url": "/documents/sepa/NM_LPB_Rate_Sheet_for_FY26_FINAL.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "January 1, 2025 Monthly Premiums",
+        "url": "/documents/Premium_Rate_Sheet_LPB_Only_0percent_Load_2025_01_01_MASTER.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Sample Premium Rate Sheet ½ Month Deduction Schedule",
+        "url": "/documents/Premium_Rate_Sheet_1_1_25_half_month_spread_0percent_24_pay_periods_MASTER_WORKSHEET.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "The Hartford Supplemental Life premium rate worksheet",
+        "url": "/documents/State_of_New_Mexico_Health_Care_Authority_Premium_Worksheet_PP12.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Notice of premium rate increase",
+        "url": "/documents/Benefits_Letter_to_COBRA_LPBs_Self_Payors_062024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium rates (monthly) as of 7/1/24",
+        "url": "/documents/Premium_Rate_Sheet_LPB_Only_0_Load_2024_07_01_MASTER_61424v2.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium rates (1/2 month deductions) as of 7/1/24",
+        "url": "/documents/Premium_Rate_Sheet_7_1_24_half_month_spread_0_24_pay_periods_MASTER_WORKSHEET.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium rates (monthly) as of 1/1/24",
+        "url": "/documents/Premium_Rate_Sheet_LPB_Only_0_Percent_Load_Effective_1_1_24.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium rates (1/2 month rate with average EE/ER split) as of 1/1/24",
+        "url": "/documents/Premium_Rate_Sheet_1_1_24_half_month_spread_0_24_pay_periods_MASTER_WORKSHEET.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium rates (monthly)",
+        "url": "/documents/Premium_Rate_Sheet_LPB_Only_0_Load_2023_07_01_to_2023_12_31_MASTER.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium rates (1/2 month rate with average EE/ER split)",
+        "url": "/documents/Premium_Rate_Sheet_7_1_23_through_12-31-23_half_month_spread_0_24_pay_periods_MASTER_WORKSHEET7_1_23.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium rates (monthly)",
+        "url": "/documents/Premium_Rate_Sheet_LPB_Only_0_Load_2022-07-01_to_2023-06-30_MASTER7.1.22.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Premium rates (1/2 month rate with average EE/ER split)",
+        "url": "/documents/Premium_Rate_Sheet_7-1-22_through_06-30-23_half_month_spread_0_24_pay_periods_MASTER_WORKSHEET7.1.22.pdf",
+        "type": "pdf"
+      }
+    ],
+    "volben": [
+      {
+        "text": "Whole Life insurance",
+        "url": "https://sofnm.esdglobe.com/WholeLifeBrochure.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Whole Life Brochure",
+        "url": "documents/volben/GlobeLife_WholeLifeBrochure.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "GlobeLife Overview - Ordinary (Whole) Life Insurance",
+        "url": "documents/volben/GlobeLife_SofNM_EBlast_Flyer_ 2024.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Accident, Critical Illness and Cancer Insurance",
+        "url": "/documents/volben/MetLife_Accident_Critical_Illness_Cancer_FAQ.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Accident Insurance Overview",
+        "url": "documents/volben/MetLife_Accident_Insurance_Overview.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Cancer Insurance Overview",
+        "url": "documents/volben/MetLife_Cancer_Insurance_Overview.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Critical Illness Insurance Overview",
+        "url": "documents/volben/MetLife_Critical_Illness_Insurance_Overview.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "Accident, Critical Illness and Cancer Insurance FAQ",
+        "url": "documents/volben/MetLife_Accident_Critical_Illness_Cancer_FAQ.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "MetLife Health Screening Benefits",
+        "url": "documents/volben/MetLife_Health_Screening.pdf",
+        "type": "pdf"
+      },
+      {
+        "text": "How to File a Claim",
+        "url": "documents/volben/MetLife_How_to_File_a_Claim.pdf",
+        "type": "pdf"
+      }
+    ]
+  }
+}

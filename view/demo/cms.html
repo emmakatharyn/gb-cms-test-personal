@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title>Document Browser</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <link rel='stylesheet' type='text/css' media='screen' href='./document-browser.css'>
+</head>
+<body>
+  <div id="document-browser-container"></div>
+
+  <script>
+    // Load the link map data
+    fetch('../content/link-map.json')
+      .then(response => response.json())
+      .then(linkMap => {
+        // Initialize the document browser
+        const browser = new DocumentBrowser('document-browser-container', linkMap);
+      })
+      .catch(error => console.error('Error loading link map:', error));
+  </script>
+  <script src='./document-browser.js'></script>
+</body>
+</html>
