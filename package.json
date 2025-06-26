@@ -6,7 +6,8 @@
   "scripts": {
     "build": "node scripts/generate-docs.js",
     "watch": "node scripts/watch-docs.js",
-    "download": "node scripts/download-docs.js"
+    "download": "node scripts/download-docs.js",
+    "generate-map": "node scripts/generate-map.js"
   },
   "keywords": ["cms", "documents", "pdf"],
   "author": "",

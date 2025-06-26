@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Structure Demo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .content-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+        }
+
+        .page-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .page-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .page-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #3498db;
+        }
+
+        .content-list {
+            list-style: none;
+        }
+
+        .content-item {
+            margin-bottom: 8px;
+            padding: 8px 12px;
+            border-radius: 6px;
+            transition: background-color 0.2s ease;
+        }
+
+        .content-item:hover {
+            background-color: #f8f9fa;
+        }
+
+        .section-header {
+            font-weight: 600;
+            color: #e74c3c;
+            font-size: 1.1rem;
+            margin: 15px 0 8px 0;
+            padding: 8px 12px;
+            background: linear-gradient(90deg, #ff6b6b, #ee5a24);
+            color: white;
+            border-radius: 6px;
+            text-align: center;
+        }
+
+        .section-subheader {
+            font-weight: 600;
+            color: #f39c12;
+            font-size: 1rem;
+            margin: 10px 0 5px 0;
+            padding: 6px 12px;
+            background: linear-gradient(90deg, #f39c12, #e67e22);
+            color: white;
+            border-radius: 4px;
+            text-align: center;
+        }
+
+        .file-link {
+            display: block;
+            color: #3498db;
+            text-decoration: none;
+            padding: 6px 8px;
+            border-radius: 4px;
+            transition: all 0.2s ease;
+            border-left: 3px solid transparent;
+        }
+
+        .file-link:hover {
+            background-color: #ecf0f1;
+            color: #2980b9;
+            border-left-color: #3498db;
+            transform: translateX(5px);
+        }
+
+        .file-link::before {
+            content: "📄 ";
+            margin-right: 8px;
+        }
+
+        .file-link.pdf::before {
+            content: "📕 ";
+        }
+
+        .file-link.word::before {
+            content: "📘 ";
+        }
+
+        .file-link.text::before {
+            content: "📄 ";
+        }
+
+        .file-link.markdown::before {
+            content: "📝 ";
+        }
+
+        .file-link.html::before {
+            content: "🌐 ";
+        }
+
+        .file-link.unknown::before {
+            content: "📎 ";
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 1.2rem;
+            color: #7f8c8d;
+        }
+
+        .error {
+            background: #e74c3c;
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .stats {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-top: 10px;
+        }
+
+        .stat-item {
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 6px;
+        }
+
+        .stat-number {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #3498db;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: #7f8c8d;
+            margin-top: 5px;
+        }
+
+        @media (max-width: 768px) {
+            .content-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 Content Structure Viewer</h1>
+            <p>Dynamic display of organized documents and resources</p>
+        </div>
+
+        <div id="stats" class="stats" style="display: none;">
+            <h3>📊 Content Statistics</h3>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-number" id="totalPages">0</div>
+                    <div class="stat-label">Pages</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="totalFiles">0</div>
+                    <div class="stat-label">Files</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="totalSections">0</div>
+                    <div class="stat-label">Sections</div>
+                </div>
+            </div>
+        </div>
+
+        <div id="loading" class="loading">
+            <p>🔄 Loading content structure...</p>
+        </div>
+
+        <div id="error" class="error" style="display: none;">
+            <p>❌ Error loading content structure. Please check the file path.</p>
+        </div>
+
+        <div id="content" class="content-grid"></div>
+    </div>
+
+    <script>
+        class ContentDisplay {
+            constructor() {
+                this.contentData = null;
+                this.init();
+            }
+
+            async init() {
+                try {
+                    await this.loadContentStructure();
+                    this.displayStats();
+                    this.renderContent();
+                } catch (error) {
+                    console.error('Error initializing content display:', error);
+                    this.showError();
+                }
+            }
+
+            async loadContentStructure() {
+                try {
+                    const response = await fetch('../../content-map/content-structure.json');
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    this.contentData = await response.json();
+                    this.hideLoading();
+                } catch (error) {
+                    console.error('Error loading content structure:', error);
+                    throw error;
+                }
+            }
+
+            displayStats() {
+                if (!this.contentData) return;
+
+                const pages = Object.keys(this.contentData);
+                let totalFiles = 0;
+                let totalSections = 0;
+
+                pages.forEach(pageName => {
+                    const items = this.contentData[pageName];
+                    items.forEach(item => {
+                        if (item.startsWith('#')) {
+                            totalSections++;
+                        } else {
+                            totalFiles++;
+                        }
+                    });
+                });
+
+                document.getElementById('totalPages').textContent = pages.length;
+                document.getElementById('totalFiles').textContent = totalFiles;
+                document.getElementById('totalSections').textContent = totalSections;
+                document.getElementById('stats').style.display = 'block';
+            }
+
+            renderContent() {
+                const contentContainer = document.getElementById('content');
+                contentContainer.innerHTML = '';
+
+                Object.entries(this.contentData).forEach(([pageName, items]) => {
+                    const pageCard = this.createPageCard(pageName, items);
+                    contentContainer.appendChild(pageCard);
+                });
+            }
+
+            createPageCard(pageName, items) {
+                const card = document.createElement('div');
+                card.className = 'page-card';
+
+                const title = document.createElement('h2');
+                title.className = 'page-title';
+                title.textContent = this.formatPageName(pageName);
+                card.appendChild(title);
+
+                const contentList = document.createElement('ul');
+                contentList.className = 'content-list';
+
+                items.forEach(item => {
+                    const listItem = document.createElement('li');
+                    listItem.className = 'content-item';
+
+                    if (item.startsWith('#')) {
+                        // Section header
+                        const header = document.createElement('div');
+                        header.className = item.startsWith('##') ? 'section-subheader' : 'section-header';
+                        header.textContent = item.replace(/^#+\s*/, ''); // Remove # symbols
+                        listItem.appendChild(header);
+                    } else {
+                        // File link
+                        const link = document.createElement('a');
+                        link.className = `file-link ${this.getFileTypeClass(item)}`;
+                        link.href = `../../${item}`; // Adjust path as needed
+                        link.textContent = this.formatFileName(item);
+                        link.target = '_blank';
+                        link.title = item;
+                        listItem.appendChild(link);
+                    }
+
+                    contentList.appendChild(listItem);
+                });
+
+                card.appendChild(contentList);
+                return card;
+            }
+
+            getFileTypeClass(filePath) {
+                const extension = filePath.split('.').pop().toLowerCase();
+                
+                switch (extension) {
+                    case 'pdf':
+                        return 'pdf';
+                    case 'doc':
+                    case 'docx':
+                        return 'word';
+                    case 'txt':
+                        return 'text';
+                    case 'md':
+                        return 'markdown';
+                    case 'html':
+                    case 'htm':
+                        return 'html';
+                    default:
+                        return 'unknown';
+                }
+            }
+
+            formatPageName(pageName) {
+                return pageName
+                    .replace(/_/g, ' ')
+                    .replace(/\b\w/g, l => l.toUpperCase());
+            }
+
+            formatFileName(filePath) {
+                const fileName = filePath.split('/').pop();
+                return fileName
+                    .replace(/_/g, ' ')
+                    .replace(/\.(pdf|doc|docx|txt|md|html|htm)$/i, '')
+                    .replace(/\b\w/g, l => l.toUpperCase());
+            }
+
+            hideLoading() {
+                document.getElementById('loading').style.display = 'none';
+            }
+
+            showError() {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+            }
+        }
+
+        // Initialize the content display when the page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            new ContentDisplay();
+        });
+    </script>
+</body>
+</html>

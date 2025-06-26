@@ -72,7 +72,7 @@ async function generateLinkMap() {
 }
 
 function isDocumentLink(url) {
-    const documentExtensions = ['.pdf', '.doc', '.docx', '.txt', '.rtf'];
+    const documentExtensions = ['.pdf', '.doc', '.docx', '.txt', '.rtf', '.mp4'];
     return documentExtensions.some(ext => url.toLowerCase().endsWith(ext));
 }
 
